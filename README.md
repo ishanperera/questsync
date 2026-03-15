@@ -79,7 +79,7 @@ brew install --cask questsync
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/questsync.git
+git clone https://github.com/ishanperera/questsync.git
 cd questsync
 
 # Build the core library
